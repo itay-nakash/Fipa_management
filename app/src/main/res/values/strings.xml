@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FipaManagement</string>
+    <string name="wrong_login">שם משתמש או סיסמא לא נכונים</string>
+    <string name="title_activity_parties">PartiesActivity</string>
+    <string name="title_activity_barcode">BarcodeActivity</string>
+    <string name="ok">אישור</string>
+    <string name="cancel">ביטול</string>
+    <string name="username">שם משתמש</string>
+    <string name="password">סיסמא</string>
+    <string name="yes">כן</string>
+    <string name="minAge">גיל מינימלי</string>
+    <string name="time">שעה</string>
+    <string name="customerCost">מחיר ללקוח</string>
+    <string name="originalCustomerCost">מחיר מקורי ללקוח</string>
+    <string name="ticketsLeft">כרטיסים שנותרו</string>
+    <string name="maxTickets">כרטיסים מקסימלים</string>
+    <string name="partyTitle">כותרת מסיבה</string>
+    <string name="place">מקום</string>
+    <string name="partyId">מספר סידורי מסיבה</string>
+    <string name="accountId">מספר סידורי חשבון</string>
+    <string name="description">תיאור</string>
+    <string name="dialog_title">ערוך את פרטי המסיבה</string>
+    <string name="no">לא</string>
+    <string name="isPartyPublished">האם המסיבה פורסמה</string>
+</resources>
